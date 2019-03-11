@@ -1,4 +1,6 @@
-# DHL Freight Sweden - Quote Price Web Service Wrapper
+# DHL Freight - QuotePrice
+
+A wrapper for DHL Freight Sweden QuotePrice Web Service. Package generated with [WsdlToPhp] Package Generator.
 
 ## Installation
 
