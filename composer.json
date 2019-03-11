@@ -1,7 +1,7 @@
 {
     "name": "mjarestad/dhl-quote-price",
     "description": "Package generated from https://www.dhltoolbox.se/DHLQuotePriceWS/QuotePrice.asmx?WSDL using wsdltophp/packagegenerator",
-    "version": "1.0.0"
+    "version": "1.0.0",
     "require": {
         "php": ">=5.3.3",
         "ext-soap": "*",

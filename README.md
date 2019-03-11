@@ -1,6 +1,8 @@
 # DHL Freight - QuotePrice
 
-A wrapper for DHL Freight Sweden QuotePrice Web Service. Package generated with [WsdlToPhp] Package Generator.
+A wrapper for DHL Freight Sweden QuotePrice Web Service.
+
+Package generated from https://www.dhltoolbox.se/DHLQuotePriceWS/QuotePrice.asmx?WSDL using wsdltophp/packagegenerator.
 
 ## Installation
 
