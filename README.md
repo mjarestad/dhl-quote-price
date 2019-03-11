@@ -12,7 +12,21 @@ composer require mjarestad/dhl-quote-price
 
 ## How to use
 
-Coming soon!
+```php
+$quote = [
+    'DHLStycke' => [
+        'AgreementNo' => '',
+        'Weight' => 1000,
+        'Volume' => 2,
+        'SenderReceiver' => [
+            'FromPostCode' => '50630',
+            'ToPostCode' => '26772',
+        ]
+    ]
+];
+```
+
+More info coming soon!
 
 ## Built With
 
