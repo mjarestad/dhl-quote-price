@@ -1,5 +1,8 @@
 # DHL Freight - QuotePrice
 
+[![Latest Stable Version](https://poser.pugx.org/mjarestad/dhl-quote-price/v/stable)](https://packagist.org/packages/mjarestad/dhl-quote-price)
+[![License](https://poser.pugx.org/mjarestad/dhl-quote-price/license)](https://packagist.org/packages/mjarestad/dhl-quote-price)
+
 A wrapper for DHL Freight Sweden QuotePrice Web Service. Package generated from https://www.dhltoolbox.se/DHLQuotePriceWS/QuotePrice.asmx?WSDL using wsdltophp/packagegenerator.
 
 ## Installation

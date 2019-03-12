@@ -2,6 +2,12 @@
     "name": "mjarestad/dhl-quote-price",
     "description": "Package generated from https://www.dhltoolbox.se/DHLQuotePriceWS/QuotePrice.asmx?WSDL using wsdltophp/packagegenerator",
     "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mattias Jarestad",
+            "email": "mjarestad@gmail.com"
+        },
     "require": {
         "php": ">=5.3.3",
         "ext-soap": "*",
